@@ -7,7 +7,6 @@
 
 # Featureliste 
 - Verschiedene Kameras (Wechsel zwischen den Kameras mittels " 1 , 2 , 3") 
-- Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) )
-- Blender Modelle erstellt
-- Shadow Mapping
+- Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) 
+
 
